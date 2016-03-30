@@ -1,10 +1,10 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "cordova-ios-requires-fullscreen",
     "cordova_name": "IOS UIRequiresFullScreen",
     "description": "IOS UIRequiresFullScreen Plugin",
     "license": "MIT",
-    "repo": "https://github.com/chancezeus/cordova-ios-requires-fullscreen.git",
+    "repo": "https://github.com/mussegam/cordova-ios-requires-fullscreen.git",
     "keywords": [
         "cordova",
         "ios",
